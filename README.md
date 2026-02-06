@@ -1,4 +1,4 @@
-# Technical writing portfolio <a name="introduction"></a>
+# Technical Writing Portfolio <a name="introduction"></a>
 
 As a Technical Writer, I create and enhance user documentation for topics such as drivers, databases, and data migration.
 I conduct research interviews with developers, test software, update documentation in various formats, and contribute to GitHub repositories to improve the user experience and satisfaction.
@@ -52,3 +52,7 @@ The project involved meticulous error resolution when building AsciiDoc with Ant
 
 * [DSE 5.1 documentation](https://docs.datastax.com/en/dse/5.1/docs/getting-started/get-started-dse.html)
 * [DSE 6.8 documentation](https://docs.datastax.com/en/dse/6.8/docs/getting-started/get-started-dse.html)
+
+## Personal Projects
+
+I made a [tool](https://emeliawilkinson.github.io/) for my local community brass band to make set lists for shows. Learn more about us [here](https://www.extraordinaryrenditionband.com/).
