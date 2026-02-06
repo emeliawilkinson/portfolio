@@ -6,7 +6,7 @@ I conduct research interviews with developers, test software, update documentati
 I have a Master's degree in English Language and Literature/Letters from the University of Rhode Island and a dual B.A. in English and Spanish from Tulane University.
 
 I have a passion for writing, editing, and communicating complex technical information in a clear and engaging way.
-My goal is to continue learning and growing as a Technical Writer and to deliver high-quality documentation that meets the needs of the users and the organization.
+My goal is to continue learning and growing as a technical writer and to deliver high-quality documentation that meets the needs of the users and the organization.
 
 ## Table of contents
 1. [Documentation as code versus traditional word processors](#codevtrad)
@@ -17,7 +17,7 @@ My goal is to continue learning and growing as a Technical Writer and to deliver
 ## Documentation as code versus traditional word processors <a name="codevtrad"></a>
 
 Not all businesses write documentation in the same way.
-Some companies use AsciiDoc, Dita, or other "docs as code" options in order to optimize collaboration and version control.
+Some companies use AsciiDoc, DITA, or other docs-as-code options in order to optimize collaboration and version control.
 Other companies may choose traditional word processors such as Microsoft Word or Google Docs.
 
 To accommodate different styles of documentation, this page provides links to my work in both formats.
@@ -45,7 +45,7 @@ See my [Introduction to PivotTables](https://docs.google.com/document/d/1P0K-FJb
 
 ## Documentation conversions <a name="conversions"></a>
 
-Migrating the entirety of the DataStax Enterprise 5.1 and 6.8 documentation from Dita to AsciiDoc was a lengthy and critical project in my professional career.
+Migrating the entirety of the DataStax Enterprise 5.1 and 6.8 documentation from DITA to AsciiDoc was a lengthy and critical project in my professional career.
 This entailed running all of the documentation through a converter and then cleaning up all remaining formatting mistakes, ensuring that the documentation rendered correctly and free from UI complications.
 
 The project involved meticulous error resolution when building AsciiDoc with Antora, demonstrating my patience and determination to complete meticulous long-term projects.
@@ -53,6 +53,6 @@ The project involved meticulous error resolution when building AsciiDoc with Ant
 * [DSE 5.1 documentation](https://docs.datastax.com/en/dse/5.1/docs/getting-started/get-started-dse.html)
 * [DSE 6.8 documentation](https://docs.datastax.com/en/dse/6.8/docs/getting-started/get-started-dse.html)
 
-## Personal Projects
+## Personal Project
 
 I made a [tool](https://emeliawilkinson.github.io/) for my local community brass band to make set lists for shows. Learn more about us [here](https://www.extraordinaryrenditionband.com/).
