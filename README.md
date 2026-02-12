@@ -53,6 +53,3 @@ The project involved meticulous error resolution when building AsciiDoc with Ant
 * [DSE 5.1 documentation](https://docs.datastax.com/en/dse/5.1/docs/getting-started/get-started-dse.html)
 * [DSE 6.8 documentation](https://docs.datastax.com/en/dse/6.8/docs/getting-started/get-started-dse.html)
 
-## Personal Project
-
-I made a [tool](https://emeliawilkinson.github.io/) for my local community brass band to create set lists for shows. Learn more about us [here](https://www.extraordinaryrenditionband.com/).
