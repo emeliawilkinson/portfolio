@@ -24,7 +24,7 @@ To accommodate different styles of documentation, this page provides links to my
 
 ## Documentation as code <a name="docsascode"></a>
 
-In my most recent project at DataStax, I had the opportunity to contribute to user success by collaborating with a subject matter expert who provided me with tested sample code. From there, I used AsciiDoc with Antora to write, format, and publish five driver quickstart guides. These instructions are for users looking to connect and migrate data from their applications to a DataStax Astra database.
+For my final project at DataStax, I had the opportunity to contribute to user success by collaborating with a subject matter expert who provided me with tested sample code. From there, I used AsciiDoc with Antora to write, format, and publish five driver quickstart guides. These instructions are for users looking to connect and migrate data from their applications to a DataStax Astra database.
 
 These guides cover a range of programming languages, including Python, Node.js, Java, C++, and C#, and serve a crucial role in connecting applications to databases.
 
